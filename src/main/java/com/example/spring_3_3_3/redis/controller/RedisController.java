@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.net.http.HttpResponse;
 
 @RestController
 public class RedisController {
