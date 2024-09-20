@@ -1,4 +1,4 @@
-package com.example.spring_3_3_3.redis.config;
+package com.example.spring_3_3_3.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
