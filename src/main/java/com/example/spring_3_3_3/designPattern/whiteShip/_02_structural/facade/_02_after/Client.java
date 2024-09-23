@@ -1,4 +1,4 @@
-package com.example.spring_3_3_3.designPattern._02_structural.facade._02_after;
+package com.example.spring_3_3_3.designPattern.whiteShip._02_structural.facade._02_after;
 
 public class Client {
     public static void main(String[] args) {

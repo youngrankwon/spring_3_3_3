@@ -1,4 +1,4 @@
-package com.example.spring_3_3_3.designPattern._02_structural.facade._01_before;
+package com.example.spring_3_3_3.designPattern.whiteShip._02_structural.facade._01_before;
 
 import jakarta.mail.MessagingException;
 import jakarta.mail.Session;
