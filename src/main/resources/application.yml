@@ -6,10 +6,13 @@ spring:
     name: spring_3_3_3
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgresql://localhost:15432/dadm?escapeSyntaxCallMode=callIfNoReturn&currentSchema=adm_own
+    url: jdbc:postgresql://localhost:6432/dadm?escapeSyntaxCallMode=callIfNoReturn&currentSchema=adm_own
     username: sysadmin
     password: smart!1234
     #schema: adm_own
+  jpa:
+    hibernate:
+      ddl-auto: update
 # Mybatis 설정
 mybatis:
   # mapper location - 바라 볼 xml 파일을 지정합니다.
